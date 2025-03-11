@@ -1,4 +1,4 @@
-﻿
+﻿//#1
     // static int EvenCount(int n)
     // {
     //     int count = 0;
@@ -106,7 +106,7 @@
     //     Console.WriteLine($"Max : {maxDigit}");
     //     Console.WriteLine($"Sum of Digits: {sumDigit}");
     // }
-
+//#2
 // static char CheckGrade(int grade)
 // {
 //     if (grade >= 90)
@@ -128,7 +128,7 @@
 // Console.WriteLine(gradeLetter);
 
 
-
+//#3
     // static void Main(string[] args)
     // {
 
@@ -153,7 +153,7 @@
     //     Console.WriteLine($"Zeros = {zeroCount}");
     // }
 
-
+//#4
 // using System;
 
 // class Program
@@ -172,7 +172,7 @@
 //     }
 // }
 
-
+//#5
     // static void Main()
     // {
         
@@ -191,7 +191,7 @@
 
     //     Console.WriteLine(count);
     // }
-
+//#7
 // using System;
 
 // class Program
@@ -215,7 +215,7 @@
 //         }
 //     }
 // }
-
+//#8
 // using System;
 
 // class Program
@@ -244,7 +244,7 @@
 //         }
 //         return (double)num1 / num2;
 //     }
-
+//#9
 //     static void Main()
 //     {
 //         Console.Write("The first number is: ");
@@ -287,7 +287,7 @@
 // }
 
 
-
+//#10
     
 // static int Power(int baseValue, int exponent)
 // {
